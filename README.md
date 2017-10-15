@@ -2,6 +2,14 @@
 
 a vue password bar component
 
+### Install
+
+```bash
+npm install vue-passwordbar -S
+
+yarn add vue-passwordbar
+```
+
 ### Quickstart
 ```javascript
 require('vue-passowrdbar/dist/vue-passwordbar.css');
