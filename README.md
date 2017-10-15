@@ -23,7 +23,7 @@ Vue.component('c-passwordbar',passwordbar);
 
 ### Params
 
-`passwordbar`
+`props`
 -  `pwd`: the password, type String, default is ''
 -  `len` : the password input num, type Number, default is 6
 

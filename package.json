@@ -1,6 +1,6 @@
 {
   "name": "vue-passwordbar",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "a vue password bar component",
   "main": "dist/vue-passwordbar.js",
   "scripts": {
